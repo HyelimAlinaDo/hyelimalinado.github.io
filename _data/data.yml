@@ -52,6 +52,13 @@ career-profile:
       Photos of structures that I implemented using Mathematica and randered by Keyshot   
       
 education:
+  - degree: Ph.D. in Mechanical Engineering
+      university: University of Illinois, Urbana-Champaign
+      time: 2023 -
+      details: |
+        
+          - Data Science and Engineering Graduate Concentrate
+          - Bullet point
     - degree: MSc in Computational Science and Technology
       university: Seoul National University
       time: 2018 - 2020
