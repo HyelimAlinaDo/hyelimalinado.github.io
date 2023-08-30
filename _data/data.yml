@@ -53,7 +53,7 @@ career-profile:
       Photos of structures that I implemented using Mathematica and randered by Keyshot   
       
 education:
-  - degree: Ph.D. in Mechanical Engineering
+    - degree: Ph.D. in Mechanical Engineering
       university: University of Illinois, Urbana-Champaign
       time: 2021 - 2026 (Expected)
       details: |
