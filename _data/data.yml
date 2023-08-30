@@ -54,21 +54,21 @@ career-profile:
       
 education:
     - degree: Ph.D. in Mechanical Engineering
-      university: University of Illinois, Urbana-Champaign
+      university: University of Illinois, Urbana-Champaign (UIUC)
       time: 2021 - 2026 (Expected)
       details: |
         
           - Data Science and Engineering Graduate Concentrate
           - Bullet point
     - degree: MSc in Computational Science and Technology
-      university: Seoul National University
+      university: Seoul National University (SNU)
       time: 2018 - 2020
       details: |
         
           - Bullet point
           - Bullet point
     - degree: BSc in Energy Resources Engineering
-      university: Seoul National University
+      university: Seoul National University (SNU)
       time: 2013 - 2018
       details: |
         
@@ -95,6 +95,10 @@ projects:
     title: Teaching Experiences
     intro: > 
     assignments:
+      - title: Introduction to Statics
+        link: "#hook"
+        tagline: "The Grainger College of Engineering, UIUC"
+
       - title: Digital Computer Concept and Practice
         link: "#hook"
         tagline: "College of Business Administration, SNU"
