@@ -75,16 +75,21 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    - role: Intern at Quality Assurance Team
+      time: May, 2023 - June, 2023
+      company: Samsung Electronics, Republic of Korea
+      details: |
+          - Project: Improving the Standard Operating Procedure for Scanning Acoustic Tomography Measurement of High Bandwidth Memory (HBM) Product
     - role: Intern at Extreme Materials Research Center
-      time: Sep, 2020 - Present
+      time: Sep, 2020 - June, 2021
       company: Korea Institute of Science and Technology, Republic of Korea
       details: |
-          - Patent in Progress: Metastable 3D lattice by topological defects
-    - role: Visiting Student at Computational Science Research Center
-      time: Nov, 2019 - Aug, 2020
+          - Project: Smart Suit for Augmented Human
+    - role: Graduate Student Intern at Computational Science Research Center
+      time: Sep, 2019 - Aug, 2020
       company: Korea Institute of Science and Technology, Republic of Korea
       details: |
-          - Patent in Progress: Foldable conformal masks from facial landmarks 
+          - Project: Development of 4D smart material and structure with adsorption performance 
     - role: Manager at Question and Answering Technology Team
       time: Apr, 2019 - Aug, 2019
       company: 42maru, Republic of Korea
